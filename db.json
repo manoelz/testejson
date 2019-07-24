@@ -1,0 +1,140 @@
+
+    {
+        "Empresa": {
+            "Codigo": 1,
+            "Ativo": true,
+            "RazaoSocial": "JANNE EYRE MENEZES PARENTE - ME",
+            "Fantasia": "BABY DOG 01 - WS",
+            "Cnpj": "03.173.313/0001-30",
+            "Ie": "062806971",
+            "Endereco": "AVENIDA WASHINGTON SOARES",
+            "Bairro": "EDSON QUEIROZ",
+            "Numero": 2155,
+            "Cidade": {
+                "Codigo": 1255,
+                "Descricao": "FORTALEZA",
+                "CodigoUfIbge": "23",
+                "CodigoCidadeIbge": "2304400",
+                "Estado": "CE"
+            },
+            "Cep": "60811-341",
+            "Fone": "",
+            "TipoTributacao": 2,
+            "InscricaoMunicipal": "",
+            "Complemento": "LOJA 17 E 18",
+            "Pais": 0,
+            "DadosProcon": ""
+        },
+        "Pdvs": [
+            {
+                "Codigo": 1,
+                "Descricao": "PDV01-A.S"
+            },
+            {
+                "Codigo": 2,
+                "Descricao": "PDV01-W.S"
+            },
+            {
+                "Codigo": 5,
+                "Descricao": "SERVIDOR"
+            },
+            {
+                "Codigo": 6,
+                "Descricao": "Balcao_PDV6"
+            }
+        ]
+    },
+    {
+        "Empresa": {
+            "Codigo": 2,
+            "Ativo": true,
+            "RazaoSocial": "L FERREIRA DE MENEZES ME",
+            "Fantasia": "BABY DOG 02 - ALBERTO SA",
+            "Cnpj": "07.524.088/0001-90",
+            "Ie": "061838616",
+            "Endereco": "AV. ENG. ALBERTO SÁ",
+            "Bairro": "Papicu",
+            "Numero": 173,
+            "Cidade": {
+                "Codigo": 1255,
+                "Descricao": "FORTALEZA",
+                "CodigoUfIbge": "23",
+                "CodigoCidadeIbge": "2304400",
+                "Estado": "CE"
+            },
+            "Cep": "60175-395",
+            "Fone": "(85) 3265-1879",
+            "TipoTributacao": 2,
+            "InscricaoMunicipal": "",
+            "Complemento": "LOJAS 01 A 05",
+            "Pais": 0,
+            "DadosProcon": ""
+        },
+        "Pdvs": []
+    },
+    {
+        "Empresa": {
+            "Codigo": 3,
+            "Ativo": true,
+            "RazaoSocial": "MENEZES PARENTE COMERCIO DE RAÇÕES LTDA ME",
+            "Fantasia": "BABY DOG 03 - AVENIDA",
+            "Cnpj": "12.637.188/0001-62",
+            "Ie": "064128237",
+            "Endereco": "Avenida Dom Luis",
+            "Bairro": "Meireles",
+            "Numero": 300,
+            "Cidade": {
+                "Codigo": 1255,
+                "Descricao": "FORTALEZA",
+                "CodigoUfIbge": "23",
+                "CodigoCidadeIbge": "2304400",
+                "Estado": "CE"
+            },
+            "Cep": "60160-230",
+            "Fone": "",
+            "TipoTributacao": 2,
+            "InscricaoMunicipal": "",
+            "Complemento": "LOJA 105 E 106",
+            "Pais": 0,
+            "DadosProcon": ""
+        },
+        "Pdvs": [
+            {
+                "Codigo": 3,
+                "Descricao": "PDV01-DL"
+            }
+        ]
+    },
+    {
+        "Empresa": {
+            "Codigo": 4,
+            "Ativo": false,
+            "RazaoSocial": "R N PARENTE SOUZA - ME",
+            "Fantasia": "BABY DOG 04 - DEL PASEO",
+            "Cnpj": "24.186.569/0001-51",
+            "Ie": "064890082",
+            "Endereco": "AV. SANTOS DUMONT",
+            "Bairro": "ALDEOTA",
+            "Numero": 3131,
+            "Cidade": {
+                "Codigo": 1255,
+                "Descricao": "FORTALEZA",
+                "CodigoUfIbge": "23",
+                "CodigoCidadeIbge": "2304400",
+                "Estado": "CE"
+            },
+            "Cep": "60150-162",
+            "Fone": "31824444",
+            "TipoTributacao": 2,
+            "InscricaoMunicipal": "",
+            "Complemento": "LOJA 230/240",
+            "Pais": 0,
+            "DadosProcon": ""
+        },
+        "Pdvs": [
+            {
+                "Codigo": 4,
+                "Descricao": "PDV01-S.D"
+            }
+        ]
+    }
